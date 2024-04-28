@@ -1,0 +1,1 @@
+start "bingosyncjsonmaker" bingosyncjsonmaker.exe
